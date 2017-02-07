@@ -17,8 +17,8 @@
     "type": "git",
     "url": "git+https://github.com/titancat/bloom.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["api"],
+  "author": "mcattx@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/titancat/bloom/issues"
