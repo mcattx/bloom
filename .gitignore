@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+
+# Include when developing application packages.
+
+.tmp
+pubspec.lock
+.c9
+.idea/
+.settings/
+*.swo
+.vscode
